@@ -1,0 +1,14 @@
+uuid: 27642dd6-f2d7-43df-b5fe-0b5a509b061a
+name: 'train local'
+mail: training@activities.local
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
